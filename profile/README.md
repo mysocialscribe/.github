@@ -5,18 +5,17 @@
 
 ## 🌟 About
 
-MySocialScribe is a powerful tool designed to enhance your Twitter Spaces experience. 🎤  
-Our platform allows you to effortlessly download, transcribe, and summarize Twitter Spaces conversations, ensuring you never miss important content. 📝
+MySocialScribe is a powerful tool designed to enhance your Twitter Spaces experience. Our platform allows you to effortlessly download, transcribe, and summarize Twitter Spaces conversations, ensuring you never miss important content.
 
 ## 🌐 Live Platform
 
-Visit [MySocialScribe](https://mysocialscribe.com/) to start using the platform. 🌍
+Visit [MySocialScribe](https://mysocialscribe.com/) to start using the platform.
 
 ## ✉️ Contact
 
 For support or inquiries, please contact:
 
-- 📧 Email: [mysocialscribe.info@gmail.com](mailto:mysocialscribe.info@gmail.com)
+- Email: [mysocialscribe.info@gmail.com](mailto:mysocialscribe.info@gmail.com)
 
 ## 👥 Team
 
